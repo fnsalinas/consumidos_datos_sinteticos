@@ -7,9 +7,11 @@ name = "pypi"
 pandas = "*"
 requests = "*"
 synthetic-data-consumer = {editable = true, path = "."}
+kafka-python = "*"
 
 [dev-packages]
 ipykernel = "*"
+autopep8 = "*"
 
 [requires]
 python_version = "3.8"
