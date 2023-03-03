@@ -1,0 +1,75 @@
+[
+    {
+        "client_data": {
+            "customer_id": "84F9D38D52904A36B287B1CC07136117",
+            "nif": "71092535H",
+            "first_name": "Morena",
+            "last_name": "Querol",
+            "date_of_birth": "2004-05-03",
+            "sex": "female",
+            "blood_group": "A-",
+            "city": "Teruel",
+            "customer_address": "Acceso de Trinidad Aguirre 6\nAlbacete, 36057",
+            "lat": "-83.066422",
+            "long": "41.645075",
+            "region": "Extremadura",
+            "timezone": "Pacific/Easter",
+            "customer_phone": "+34948 19 20 84",
+            "customer_email": "nmoeorrrl-002@outlook.com",
+            "customer_created_at": "2018-07-09 00:13:22 UTC",
+            "customer_updated_at": ""
+        },
+        "user_data": {
+            "user_id": "6012769316084EBCA2BA70120689A81A",
+            "customer_id": "84F9D38D52904A36B287B1CC07136117",
+            "user_name": "morena_querol_3403",
+            "user_password": "A)0)8o#kNCV",
+            "user_email": "nmoeorrrl-002@outlook.com",
+            "user_phone": "+34948 19 20 84",
+            "user_image_url": "https://placekitten.com/1023/737",
+            "url": "http://www.serna-lillo.com/",
+            "user_created_at": "2018-07-09 00:13:22 UTC",
+            "user_updated_at": "2022-08-17 12:12:36 UTC"
+        },
+        "product_data": {
+            "product_id": "86CB6E25A02847E0B33F0170C8336E99",
+            "product_name": "Zapallo Kg",
+            "product_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s  when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries  but also the leap into electronic typesetting  remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages  and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "product_price": "2911",
+            "product_category": "Frutas y Verduras",
+            "product_stock": "3179",
+            "product_rating": "3",
+            "product_rating_count": "852932",
+            "product_reviews_count": "243",
+            "product_reviews": "",
+            "product_tags": "Productos de frutas y verduras",
+            "product_created_at": "2000-01-01 12:00:00 UTC",
+            "product_updated_at": ""
+        },
+        "category_data": {
+            "category_id": "7A706060E0164B97BC65E0AA4660E3EE",
+            "category_name": "Frutas y Verduras",
+            "category_description": "Lorem Ipsum is simply dummy text of the ",
+            "category_image_url": "https://placekitten.com/819/150",
+            "category_created_at": "2000-01-01 12:00:00 UTC",
+            "category_updated_at": ""
+        },
+        "order_data": {
+            "order_id": "4578ECD88EBA4C4F9DA195223C0931BE",
+            "order_customer_id": "84F9D38D52904A36B287B1CC07136117",
+            "order_product_id": "86CB6E25A02847E0B33F0170C8336E99",
+            "order_quantity": 6,
+            "order_price": "2911",
+            "order_created_at": "2020-12-07 03:06:10 UTC",
+            "order_updated_at": ""
+        },
+        "invoice_data": {
+            "invoice_id": "8BA0939242D044A4856B87D1440F02DE",
+            "invoice_customer_id": "84F9D38D52904A36B287B1CC07136117",
+            "invoice_order_id": "4578ECD88EBA4C4F9DA195223C0931BE",
+            "invoice_amount": "17466.0",
+            "invoice_created_at": "2022-09-01 14:44:19 UTC",
+            "invoice_updated_at": ""
+        }
+    }
+]
