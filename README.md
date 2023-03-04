@@ -57,6 +57,14 @@ ____________________________________________________
 
 Ref: https://dev.to/cindyledev/remote-development-with-visual-studio-code-on-aws-ec2-4cla
 
+Configuración de VSCode:
+```txt
+HOST aws-e2-kafka
+  HostName ec2-3-136-161-48.us-east-2.compute.amazonaws.com
+  User ubuntu
+  IdentityFile ~/.ssh/e2_micro_kafka.pem
+```
+
 1. Instalar la extensión de Remote - SSH en VSCode.
 2. En VSCode, en la barra lateral izquierda, seleccionar el icono de la extensión Remote - SSH.
 3. En la ventana que se abre, seleccionar el botón de **Connect to Host...**.
